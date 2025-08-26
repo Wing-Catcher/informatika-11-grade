@@ -28,13 +28,13 @@ int main(){
 OUTPUT
 
 Masukkan nama depan anda: Raffy  
-Masukkan umur anda: 19
-Masukkan alamat anda: RT3 RW1 Setri Wonorejo Gandusari Trenggalek
+Masukkan umur anda: 17
+Masukkan alamat anda: Wonorejo Gandusari Trenggalek
 Masukkan Tempat Lahir anda: Trenggalek
 
 Hai, ini adalah biodata singkatku:
-Umurku: 19 Tahun
+Umurku: 17 Tahun
 Namaku: Raffy
-Alamat: RT3 RW1 Setri Wonorejo Gandusari Trenggalek
+Alamat: Wonorejo Gandusari Trenggalek
 Tempat lahir: Trenggalek
 */
