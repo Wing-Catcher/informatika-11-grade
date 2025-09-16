@@ -24,7 +24,7 @@ int main(){
         cout << "Anda tidak memilih." << endl;
     }
     else{
-        cout << "Format salah" << endl;
+        cout << "Format salahh" << endl;
     }
     return 0;
 }
