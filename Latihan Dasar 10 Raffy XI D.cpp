@@ -9,7 +9,7 @@ int main(){
     cin >> pilihan;
     cout << endl;
     if (pilihan == 'a'){
-        cout << "Anda memilih teknik informatika" << endl;
+        cout << "Anda memilih teknik informatika." << endl;
     }
     else if (pilihan == 'b'){
         cout << "Anda memilih teknik elektro." << endl;
@@ -24,7 +24,7 @@ int main(){
         cout << "Anda tidak memilih." << endl;
     }
     else{
-        cout << "Format salahh" << endl;
+        cout << "Format salah" << endl;
     }
     return 0;
 }
