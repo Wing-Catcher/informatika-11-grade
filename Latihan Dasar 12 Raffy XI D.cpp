@@ -6,7 +6,7 @@ int main(){
     cout << "Inputkan nilai anda: ";
     cin >> nilai;
     
-    if (100 <= nilai >= 90){
+    if (nilai >= 90 && nilai <= 100){
         cout << "Predikat anda: A" << endl;
     }
     else if(nilai >= 70 && nilai <= 89){
